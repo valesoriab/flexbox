@@ -26,4 +26,4 @@ Contiene las siguientes secciones:
 Aprender a trabajar con Flexbox.
 
 ## 4. Link a demo
-Aquí puede visualizar mi proyecto terminado: [Flexbox1](#)
+Aquí puede visualizar mi proyecto terminado: [Flexbox1](https://6493bd0db7139816ae677b14--magical-cobbler-c87099.netlify.app/)
